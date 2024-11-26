@@ -1,0 +1,5 @@
+torch
+numpy
+transformers
+scikit-learn
+seqeval
