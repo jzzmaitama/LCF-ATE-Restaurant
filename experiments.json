@@ -10,7 +10,7 @@
     "num_train_epochs": 5,
     "train_batch_size": 16,
     "max_seq_length": 80,
-    "local_context_focus": "cdw"
+    "local_context_focus": "fusion"
   }
 }
 
