@@ -6,6 +6,7 @@ import numpy as np
 import copy
 
 
+
 class SelfAttention(nn.Module):
     def __init__(self, config, opt):
         super(SelfAttention, self).__init__()
